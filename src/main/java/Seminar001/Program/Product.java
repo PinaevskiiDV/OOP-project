@@ -1,4 +1,4 @@
-package OOP.Seminar001.Program;
+package Seminar001.Program;
 
 public class Product {
 

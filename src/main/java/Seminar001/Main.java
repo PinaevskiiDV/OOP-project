@@ -1,9 +1,9 @@
-package OOP.Seminar001;
+package Seminar001;
 
-import OOP.Seminar001.Program.Beer;
-import OOP.Seminar001.Program.CursedProducts;
-import OOP.Seminar001.Program.Product;
-import OOP.Seminar001.Program.WendingMachine;
+import Seminar001.Program.Beer;
+import Seminar001.Program.CursedProducts;
+import Seminar001.Program.Product;
+import Seminar001.Program.WendingMachine;
 
 public class Main {
 
